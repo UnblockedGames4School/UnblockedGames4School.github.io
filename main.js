@@ -514,10 +514,10 @@ document.addEventListener('DOMContentLoaded', function () {
 
     // Default customization settings
     const defaultCustomisation = [
-        '/background.png',  // Default background image
-        '#111E2C',          // Default primary color
-        '#58AAFC',          // Default secondary color
-        '1280'              // Default background resolution
+        'https://cms-artifacts.artlist.io/content/motion_array/1806032/Back_To_School_Seamless_Pattern_high_resolution_preview_1806032.jpg?Expires=2037554405864&Key-Pair-Id=K2ZDLYDZI2R1DF&Signature=EajmZhQbx3oJAXTiodA4bQSCHnBqI8M0eFkCLdGVQy4bewDhHr5zolqVGbEQS1AaWiO62L22hYqQYPwYv9Hp0F27ulvy58cksD9CiHkO-xnHLOJ-KYKfRWmJcyLCDqHxwNJahQo7JNsCO2aAiTHEVrhDeAozCiGDvl-xTReibl2boSpZURzIaVSFpK3qN4DarTUkueqMUxYi6-IwPrxb1F2Eaz6mrZkAtllbCrGxJz48FdHDtABNx6LMJUXCVRS5uQldpJLchMA8K7Jfie5fYYEVPGleYHJH4yhXk-05rbPgVILnF5hSnrq29f7xf1jz36QKuC4uskJsLJZbk0pCYg__',  // Default background image
+        '#FFFFFF',          // Default primary color
+        '#B23636',          // Default secondary color
+        '1600'              // Default background resolution
     ].join('\n');
 
     // Store the default values in the "customisation" key in localStorage
